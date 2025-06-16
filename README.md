@@ -1,2 +1,2 @@
-Aqui fiz minha primeira prática, testando Título da página (</title>), tamanho de títulos no corpo do html (</h1>,</h2>) e parágrafos (</p>).
+Aqui fiz minha primeira prática, testando Título da página, tamanho de títulos no corpo do html e parágrafos.
 HTML.
